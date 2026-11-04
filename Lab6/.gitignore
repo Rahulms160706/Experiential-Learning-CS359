@@ -1,0 +1,20 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage temporary files
+.coverage
+.coverage.*
+
+# Other generated files
+*.log
+.DS_Store
